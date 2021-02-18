@@ -1,4 +1,4 @@
-<h1 text-align="center"> Hi there 👋, I'm Bruno Santos</h1>
+<h1 text-align="center"> Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Santos</h1>
 
 
 - 🌱 I’m currently learning HTML, CSS e JavaScript
