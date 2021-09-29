@@ -1,5 +1,6 @@
 # Bruno Santos
 
+
 ## Tecnologias
  <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,9 +12,15 @@
  
 </div><br/>
 
-###
  <div>
-  <a href="https://github.com/Bruno-SF-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SF-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SF-dev&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SF-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SF-dev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+###
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SF-dev&repo=Timer&theme=react)](https://github.com/Bruno-SF-dev/Timer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SF-dev&repo=google-homepage-clone&theme=react)](https://github.com/Bruno-SF-dev/google-homepage-clone)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SF-dev&repo=maratona-discover-02&theme=react)](https://github.com/Bruno-SF-dev/maratona-discover-02)
+ 
