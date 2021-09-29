@@ -16,11 +16,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SF-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SF-dev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
-###
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SF-dev&repo=Timer&theme=react)](https://github.com/Bruno-SF-dev/Timer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SF-dev&repo=google-homepage-clone&theme=react)](https://github.com/Bruno-SF-dev/google-homepage-clone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruno-SF-dev&repo=maratona-discover-02&theme=react)](https://github.com/Bruno-SF-dev/maratona-discover-02)
- 
