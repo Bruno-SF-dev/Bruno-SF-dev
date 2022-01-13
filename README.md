@@ -9,10 +9,3 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="react" src="https://img.shields.io/badge/Storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white" />
  <img align="center" alt="react" src="https://img.shields.io/badge/testing%20library-20232A?style=for-the-badge&logo=testing-library&logoColor=e13332" />
- 
-</div><br/>
-
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-SF-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-SF-dev&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
