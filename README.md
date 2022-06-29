@@ -8,6 +8,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="react" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/Storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=c53c14" />
  <img align="center" alt="react" src="https://img.shields.io/badge/testing%20library-20232A?style=for-the-badge&logo=testing-library&logoColor=e13332" />
  <br/>
  <br/>
