@@ -1,7 +1,7 @@
 # Bruno Farias
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Farias-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santos-987633211/)](https://www.linkedin.com/in/bruno-santos-987633211/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Farias-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-farias-987633211/)](https://www.linkedin.com/in/bruno-farias-987633211/) 
 [![Gmail Badge](https://img.shields.io/badge/-brunosantosfarias2@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunosantosfarias2@gmail.com)](mailto:brunosantosfarias2@gmail.com)
 
 Sou desenvolvedor profissional frontend com 3 anos de experiência, apaixonado por aprender e aprimorar minhas habilidades com tecnologias. Minha especialidade é Javascript (Typescript), e estou profundamente imerso no ecossistema React JS & Next.js. Tenho experiência no mobile com React Native e no backend com Node.js, busco constantemente estudar tecnologias para ampliar meu conhecimento e me capacitar a atuar em diversas áreas de um projeto.
