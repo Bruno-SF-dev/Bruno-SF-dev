@@ -22,4 +22,4 @@ Atualmente, meu foco de estudo está direcionado, também, para a implementaçã
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Bruno-SF-dev/Bruno-SF-dev/output/snake.svg" alt="Snake animation" />
+
